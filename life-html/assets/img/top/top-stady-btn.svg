@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="362" height="108.754" viewBox="0 0 362 108.754">
+  <defs>
+    <filter id="長方形_1876" x="0" y="22.754" width="362" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="グループ_622" data-name="グループ 622" transform="translate(-502 -5745.246)">
+    <g id="グループ_585" data-name="グループ 585">
+      <g transform="matrix(1, 0, 0, 1, 502, 5745.25)" filter="url(#長方形_1876)">
+        <rect id="長方形_1876-2" data-name="長方形 1876" width="344" height="68" rx="34" transform="translate(9 28.75)" fill="#ffa700"/>
+      </g>
+      <text id="すべての教室情報一覧" transform="translate(587 5814)" fill="#fff" font-size="18" font-family="MochiyPop-Regular, Mochiy Pop"><tspan x="0" y="0">すべての教室情報一覧</tspan></text>
+      <path id="パス_139" data-name="パス 139" d="M-174.765,613.318l7.606,7.606-7.606,7.606" transform="translate(979.355 5186.076)" fill="none" stroke="#fff" stroke-width="2"/>
+    </g>
+    <g id="e1542_1" transform="translate(266.233 5739.206)">
+      <path id="パス_131" data-name="パス 131" d="M224.489,24.726c.22-.013.306-5.9-8.714-10.628-5.956-3.155-17.376-4.906-33.118-5.882-15.792-.974-35.906-1.173-60.383-1.176s-44.591.2-60.382,1.176C46.15,9.192,34.731,10.943,28.774,14.1c-9.019,4.725-8.934,10.615-8.714,10.628-.22.015-.306,5.9,8.714,10.628,5.956,3.155,17.376,4.907,33.118,5.883,6.59.407,13.937.678,22.036.856a19.88,19.88,0,0,0,7.811,3.063c.747-.423,1.283-1.851,1.588-2.9q13.287.176,28.948.156c24.477,0,44.591-.2,60.382-1.176,15.742-.976,27.162-2.727,33.118-5.882C224.8,30.629,224.709,24.74,224.489,24.726Z" transform="translate(294)" fill="#fff" stroke="#ffa700" stroke-width="2"/>
+    </g>
+    <text id="空き情報もこちらで確認_" data-name="空き情報もこちらで確認！" transform="translate(683 5769)" fill="#ffa700" font-size="14" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="-73.35" y="0">空き情報</tspan><tspan y="0" fill="#2b2b2b">もこちらで確認！</tspan></text>
+  </g>
+</svg>
